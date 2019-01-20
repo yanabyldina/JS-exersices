@@ -1,3 +1,4 @@
-let a=666;
-let b=975987;
-alert (a+b);
+let height=150;
+let Needhieght=165;
+height>Needhieght;
+false
