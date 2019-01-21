@@ -1,4 +1,7 @@
-let height=150;
-let Needhieght=165;
-height>Needhieght;
-false
+var userName = 'Вася';
+
+ 
+  var message = 'Привет, я ' + userName;
+  alert(message);
+
+
